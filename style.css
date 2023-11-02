@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: #ffbe76 ;
+}
+span{
+    color: #eb4d4b;
+}
+canvas{
+    background-color: #c7ecee;
+    border-radius: 20px;
+}
